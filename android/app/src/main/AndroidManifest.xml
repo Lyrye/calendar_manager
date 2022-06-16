@@ -2,7 +2,7 @@
     package="fr.Nickler.calendar_manager">
    <application
         android:label="calendar_manager"
-        android:name="${applicationName}"
+        android:name="calendarManager"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

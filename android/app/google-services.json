@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742302679706",
+    "project_id": "calendarmanager-344208",
+    "storage_bucket": "calendarmanager-344208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742302679706:android:987f904681dac706be1523",
+        "android_client_info": {
+          "package_name": "fr.Nickler.calendar_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742302679706-mkvdd570k1oih035qoghppunels7bo48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.Nickler.calendar_manager",
+            "certificate_hash": "b12c8f9f989d90c88e8fcea9e3128f03ca2be282"
+          }
+        },
+        {
+          "client_id": "742302679706-obcgj43cf9hbaarvbetojnn8aracovc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtoECSOYMCDYFNfwvsU7w-yWkrxVxSlY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742302679706-obcgj43cf9hbaarvbetojnn8aracovc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
